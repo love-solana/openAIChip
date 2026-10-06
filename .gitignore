@@ -1,0 +1,161 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+*.ipynb~
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Hardware Design Tools
+# Vivado / Xilinx
+*.jou
+*.log
+*.rpt
+*.dcp
+*.bit
+*.bin
+*.ltx
+.Xil/
+vivado*.str
+vivado_pid*.str
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# ModelSim / Questa
+work/
+transcript
+*.wlf
+*.vstf
+vsim.wlf
+*.mti
+modelsim.ini
+
+# Synopsys
+*.mr
+*.pvl
+*.syn
+*.svf
+
+# Cadence
+*.log
+*.cmd
+*.spp
+*.xlog
+
+# Verilator
+obj_dir/
+*.vcd
+*.fst
+
+# General HDL artifacts
+*.vcd
+*.ghw
+*.cf
+*.o
+*.so
+
+# Simulation and waveform dumps
+*.vcd
+*.fst
+*.shm/
+*.trn
+*.dsn
+
+# FPGA bitstreams and configuration
+*.bit
+*.bin
+*.mcs
+*.svf
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# LaTeX (for documentation)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.synctex.gz
+
+# Data files (large datasets should not be committed)
+*.h5
+*.hdf5
+*.mat
+*.npz
+data/raw/
+data/processed/
+
+# Logs
+logs/
+*.log
